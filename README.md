@@ -15,4 +15,4 @@ There are a couple drawbacks to our current setup. The first is if we filter the
 Two recommendations we have to solve both of the above issues:
 
 * We can adjust so code so that is checks the filters and updates the results when the user removes any fields.
-* Instead of search filters would could use a dropdown menu for some of the options which the user can use to select from. This way it is both easier for the user to know what is available and won't misspell any search items.# UFOs
+* Instead of search filters would could use a dropdown menu for some of the options which the user can use to select from. This way it is both easier for the user to know what is available and won't misspell any search items.
